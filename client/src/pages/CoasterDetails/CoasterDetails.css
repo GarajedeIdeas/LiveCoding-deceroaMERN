@@ -1,0 +1,11 @@
+.coaster-details img {
+    display: inline-block;
+    width: 30%;
+}
+
+.coaster-details article {
+    display: inline-block;
+    width: 40%;
+    margin-left: 20px;
+    vertical-align: top;
+}
